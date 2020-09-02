@@ -1,0 +1,5 @@
+# My First Blog
+
+I first started learning about Machine Learning on a project at my last job.  I was the account manager and had basically no idea how the technical side of the project was runnning. Luckily I had two very bright and experienced team members who built the entire solution and delivered a working model with an accuracy that met our client's needs.  
+
+Over the course of the next year I listened to a few podcasts about AI/ML and got very high level bearings on the space.  When the pandemic hit I no longer had a commute and I had time to fill.  I decided took a few programming classes until in June or July a tweet caught my eye about the Fastai courses.  I checked out the ML for developers videos and found the topic fascinating and started thinking about how I could use ML to further my career.  I've always loved learning, but my interests are so vast that I end up hopping around and learning about all kinds of different things.  It's rare for me to be focused on a specific subject for months at a time.  So here I am, 2 months in and am embarking on the Deep Learning for Coders using fastai and pytorch.  Wish me the best!
